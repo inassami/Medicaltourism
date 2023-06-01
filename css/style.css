@@ -1,0 +1,469 @@
+.body{
+    background-color: bisque;
+}
+
+
+
+.container-fluid img {
+   margin-right: 15px;
+   
+}
+
+
+.navbar-brand{
+    font-size: 20px;
+    font-style: italic;
+    font-family:serif;
+    font-weight: bold;
+     color:skyblue;
+    
+}
+
+
+
+
+.container-fluid{
+ background : indianred;
+ padding: 30px ;  
+    
+    
+}
+.container-fluid li {
+margin-right: 20px;
+}
+
+
+
+.container-fluid li a {
+ font-size: 20px;
+    font-style: italic;
+    font-family:serif; 
+    font-weight: bold;
+    color:skyblue;
+
+    
+}
+
+.background{
+    background-repeat:space        
+    
+}
+
+
+
+
+.color-p-m{
+    background-color: bisque;
+    
+    
+}
+
+
+
+
+.p-map ul ol {
+    display: inline-block;
+    font-size: 30px;
+  margin-right:180px;
+        
+    
+    
+}
+
+
+
+.p-map1 ul ol {
+    display: inline-block;
+    font-size: 30px;
+  margin-right: 210px;
+    
+}
+
+.p-map2 ul ol {
+    display: inline-block;
+    font-size: 30px;
+    margin-right:160px;
+    }
+
+
+
+
+
+.p-map3  ul ol {
+    display: inline-block;
+    font-size: 30px;
+    margin-right: 190px;
+    margin-bottom: 0px;
+    
+    
+    }
+.video-ho {
+    padding:   25px;
+    margin-left:290px;
+    margin-left: auto;
+    background-color: bisque;
+    
+    
+}
+
+
+
+.paragraoh-ho {
+    
+padding: 25px;
+background-color:bisque;
+}
+
+
+.paragraoh-ho h1 { 
+        font-size: 60px;
+        margin-bottom: 25px
+
+}
+
+
+
+ .paragraoh-ho p { 
+        font-size: 20px;
+       
+ 
+
+}
+.paragraoh-ho ul ol { 
+        font-size: 20px;
+    font-style:initial;
+    font-weight: bold;      
+       
+ 
+
+}
+
+.fo-inas p {
+    padding-left:500px;
+    background-color:burlywood;
+}
+  
+
+
+
+       
+ 
+ .helwan {
+   padding-left:25px;
+     background-color:bisque;
+     font-size: 20px;
+     margin-top: 0px;
+     margin-bottom: 0;
+     padding-bottom: 25px;
+     padding-top: 25px;
+     margin-left: 0px;
+}
+     
+.helwan h1 {
+    font-family: "Times New Roman", Times, serif;
+   text-shadow: 2px 2px 4px ;color: firebrick
+}
+    
+
+
+
+  
+ .bahariya-oasis {
+    padding-left:25px;
+    background-color:bisque;
+     font-size: 20px;
+     margin-bottom: 0px;
+     padding-bottom: 25px;
+     padding-top: 25px;
+}
+   
+
+.bahariya-oasis h2 {
+        font-size:50px; 
+
+   font-family: "Times New Roman", Times, serif;
+   text-shadow: 2px 2px 4px ;color: firebrick
+}
+
+
+ .img-bahariyaoasis{
+    background-color:bisque;
+    padding-left:350px;
+     margin: 0px;
+     padding-top: 25px;   
+}
+
+
+
+
+
+
+
+.siwa{ 
+     padding-left:25px;
+     background-color:bisque;
+     font-size: 20px;
+     margin-bottom: 25px;
+     padding-bottom: 25px;
+     padding-top: 25px;
+        
+}
+
+
+
+.siwa h3{  
+   font-family: "Times New Roman", Times, serif;
+   text-shadow: 2px 2px 4px ;color: firebrick;
+    font-size:50px; 
+}
+
+
+
+.img-siwa {
+    
+   background-color:bisque;
+   padding-left:350px;
+    padding-bottom: 25px;
+   margin: 0px;
+   padding-top: 25px; 
+    
+}
+
+.imgsiwa1{
+    padding-bottom: 25px;}
+
+
+.imgsiwa2{
+    padding-bottom: 25px;}
+
+
+.thenewva{
+    padding-left:25px;
+     background-color:bisque;
+     font-size: 20px;
+     margin-bottom: 25px;
+     padding-bottom: 25px;
+     padding-top: 25px;
+    
+}
+
+.thenewva h4 {
+    font-family: "Times New Roman", Times, serif;
+   text-shadow: 2px 2px 4px ;color: firebrick;
+   font-size:50px; 
+    
+}
+
+
+
+
+
+
+.img-thenewvalley{
+    padding-bottom: 25px;
+   padding-left:350px;
+  
+
+}
+
+
+
+
+
+
+
+.elkharga h5 {
+   
+    font-size:60px; 
+    font-family: "Times New Roman", Times, serif;
+   text-shadow: 2px 2px 4px ;color: firebrick
+}
+
+
+
+.elkharga{
+    
+    
+     padding-left:25px;
+     background-color:bisque;
+     font-size: 20px;
+     margin-bottom: 25px;
+     padding-bottom: 25px;
+     padding-top: 25px;
+        
+    
+}
+
+
+
+.img-elkharga{
+    background-color:bisque;
+   padding-left:350px;
+    padding-bottom: 25px;
+   margin: 0px;
+   padding-top: 25px; 
+    
+    
+}
+
+
+
+
+
+
+
+.dakhla h6{
+   font-size:60px; 
+    font-family: "Times New Roman", Times, serif;
+   text-shadow: 2px 2px 4px ;color: firebrick
+
+
+}
+
+
+
+
+.dakhla{
+     padding-left:25px;
+     background-color:bisque;
+     font-size: 20px;
+     margin-bottom: 25px;
+     padding-bottom: 25px;
+     padding-top: 25px;
+        
+    
+    
+}
+
+
+.img-dakhla{
+    background-color:bisque;
+   padding-left:350px;
+    padding-bottom: 25px;
+   margin: 0px;
+   padding-top: 25px; 
+    
+    
+}
+
+
+
+
+
+.farafra h7{
+    font-size:60px;
+        font-family: "Times New Roman", Times, serif;
+   text-shadow: 2px 2px 4px ;color: firebrick
+
+} 
+
+
+.farafra{
+    
+    padding-left:25px;
+    background-color:bisque;
+    font-size: 20px;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+        
+    
+}
+
+.img-frafra1{
+    background-color:bisque;
+   padding-left:350px;
+    padding-bottom: 25px;
+   margin: 0px;
+   padding-top: 25px;
+}
+
+
+
+.img-frafra2{
+    background-color:bisque;
+   padding-left:350px;
+    padding-bottom: 25px;
+   margin: 0px;
+   padding-top: 25px;
+}
+
+
+.img-frafra3{
+    background-color:bisque;
+   padding-left:350px;
+    padding-bottom: 25px;
+   margin: 0px;
+   padding-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+.sinai h8{
+   
+     font-size:60px;
+        font-family: "Times New Roman", Times, serif;
+   text-shadow: 2px 2px 4px ;color: firebrick
+
+}
+
+
+
+.sinai{
+    
+  padding-left:25px;
+    background-color:bisque;
+    font-size: 20px;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;  
+    
+}
+
+.img-sinai{
+    
+    background-color:bisque;
+   padding-left:350px;
+    padding-bottom: 25px;
+   margin: 0px;
+   padding-top: 25px;
+    margin-bottom: 0px;
+    padding-bottom: 0
+    
+}
+
+
+
+
+
+
+
+
+.map {
+       background-color:bisque;
+       padding-top: 25px;
+       padding-bottom: 25px;
+       margin top: 25px;
+       padding-left: 100px;
+    
+    
+}
+
+
+.background{
+    background-blend-mode: color
+}
+
+
+
+
+
+
+
